@@ -1,0 +1,5 @@
+he defer keyword in Go is used to delay the execution of a function or method until the surrounding function returns.
+
+ctx in the code acts as a control signal for the download operations
+
+--> It allows you to -- Set an overall deadline -- Prevent indefinite blocking -- Propagate cancellation
